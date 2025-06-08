@@ -1,0 +1,6 @@
+The Library Management System is a simple Java-based application that helps manage books, members, and lending records efficiently.
+It allows librarians to add books, register members, issue and return books, and track overdue loans using a background thread.
+The system utilizes exception handling to prevent errors, collections like HashMap and ArrayList for storing data, and generics to create a flexible repository.
+Java Streams enable filtering available books, identifying borrowers, and generating overdue book reports, while sorting functions organize books alphabetically.
+The multithreading feature ensures overdue books are detected periodically.
+Overall, the system demonstrates key Java concepts in a user-friendly way to simplify library operations.
